@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--实现两个Drawable的淡入淡出-->
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/colorPrimary"/>
+    <item android:drawable="@color/colorAccent"/>
+</transition>
